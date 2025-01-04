@@ -1,10 +1,3 @@
-> **代码包运行启动成功！不管你有没有运行环境，哪怕你是刚买的新电脑，也包启动运行成功！有不懂的地方随便问！问到会为止！**
-> 
-> **源码图片效果在下面，滑动滑轮观看效果！！！！**
-## 源码获取（4.9米）：
-![微信图片_20241218164848](https://github.com/user-attachments/assets/34ae1f5c-4e39-4fa7-8179-de42ae25472f)
-
-> **大家点赞、收藏、关注、评论区留言、点我主页或者私聊我获取代码**
 
 ## 【功能介绍】
 本系统的使用者一共有系统管理员、仓库管理员和普通用户这3种角色:
@@ -17,6 +10,9 @@
 ②：系统环境：Windows
 ③：开发环境：IDEA、JDK1.8、Maven、Mysql、node16
 ④：技术栈：Java、Mysql、SpringBoot、Mybatis、Vue、
+> **代码+数据库+有的送报告文档具体扫码询问=4.9元；提供有偿远程调试，29包启动成功！不管你有没有运行环境，哪怕你是刚买的新电脑，也包启动运行成功！提供有偿讲解，有不懂的地方随便问！问到会为止！**
+## 源码获取（代码截图、功能效果截图在下面）：
+![微信图片_20241218164848](https://github.com/user-attachments/assets/646b2784-afb8-47ee-a4d4-5ccc9f96b331)
 ![image](https://github.com/user-attachments/assets/5d22ef2f-cf0e-40e2-8ae4-f04b73be193c)
 ![image](https://github.com/user-attachments/assets/4bb94494-edf3-41b1-b4a6-538957a74de3)
 ![image](https://github.com/user-attachments/assets/18c78998-4fd3-4ef2-9a25-de66679b27f9)
